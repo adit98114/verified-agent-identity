@@ -8,7 +8,7 @@ on:
         required: true
         default: 'keydroppahq'
       agent_description:
-        description: 'keydroppahq'
+        description: '@keydroppahq'
         required: true
         default: 'keydroppahq AI Agent'
 
